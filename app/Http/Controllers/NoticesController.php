@@ -9,6 +9,7 @@ use Mail;
 use Auth;
 use Illuminate\Contracts\Auth\Guard;
 use Illuminate\Http\Request;
+use App\Http\Requests\StoreNoticeRequests;
 
 use App\Http\Controllers\Controller;
 
